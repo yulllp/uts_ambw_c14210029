@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:uts_c14210029/discovery.dart';
 import 'package:uts_c14210029/home.dart';
 
 
